@@ -1,11 +1,11 @@
 ---
-title: ✍️ Notes
+title: 🧠 Brains
 type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  image: covers/neurotech_2.jpg
+  caption: not a brain
 ---
 
 Welcome to the _Notes_ template!
